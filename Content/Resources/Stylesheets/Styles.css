@@ -9,46 +9,69 @@ body
 h1
 {
 	font-weight: bold;
-	font-size: 24.0pt;
-	color: var(--Dark);
+	background-color: #a60a20;
+	font-size: 26pt;
+	color: #feaa2f;
 }
 
 h2
 {
 	font-weight: bold;
-	font-size: 18.0pt;
+	font-size: 20pt;
+	margin-top: 10pt;
+	margin-bottom: 6.0pt;
+	font-family: Tahoma;
+	color: #a60a20;
 }
 
 h3
 {
 	font-weight: bold;
-	font-size: 14.0pt;
+	font-size: 18pt;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-family: Tahoma;
+	color: #860012;
 }
 
 h4
 {
-	font-weight: bold;
-	font-size: 12.0pt;
+	font-size: 14pt;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-family: Tahoma;
+	color: #5d000d;
 }
 
 h5
 {
-	font-weight: bold;
-	font-size: 10.0pt;
+	font-size: 12pt;
+	font-weight: normal;
+	font-style: italic;
+	font-family: Tahoma;
+	color: #5d000d;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
 }
 
 h6
 {
-	font-weight: bold;
-	font-size: 8.0pt;
+	font-size: 10pt;
+	font-weight: normal;
+	font-style: italic;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	font-family: Tahoma;
+	color: #5d000d;
 }
 
 p
 {
-	font-size: 12.0pt;
-	margin-top: 0pt;
-	margin-bottom: 0pt;
-	color: var(--Dark);
+	margin-top: 6.00pt;
+	margin-bottom: 6.00pt;
+	font-size: 14pt;
+	color: #094074;
+	font-family: Cambria;
 }
 
 ol,
@@ -91,3 +114,4 @@ MadCap|dropDownHotspot
 	text-decoration: none;
 	color: #006600;
 }
+
