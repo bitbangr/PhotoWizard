@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RecentLinks>
-    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage" />
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\COMM1206\PhotoWizard\Content\Resources\Images\PhotoWizardCaps - 4.jpeg" />
+    </Dialog>
 </RecentLinks>

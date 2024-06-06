@@ -169,3 +169,20 @@ img.standard
 	margin-bottom: 10px;
 }
 
+img.thumbnail
+{
+	mc-thumbnail: popup;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-left-color: #a60a20;
+	border-right-style: solid;
+	border-right-width: 2px;
+	border-right-color: #a60a20;
+	border-top-style: solid;
+	border-top-width: 2px;
+	border-top-color: #a60a20;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #a60a20;
+}
+
