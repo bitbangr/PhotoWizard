@@ -2,8 +2,9 @@
 
 body
 {
-	font-family: var(--FontFamily);
 	background-color: var(--Lightest);
+	font-size: 14pt;
+	font-family: Cambria;
 }
 
 h1
@@ -113,5 +114,11 @@ MadCap|dropDownHotspot
 	font-style: italic;
 	text-decoration: none;
 	color: #006600;
+}
+
+li
+{
+	margin-bottom: 6pt;
+	margin-top: 6pt;
 }
 
