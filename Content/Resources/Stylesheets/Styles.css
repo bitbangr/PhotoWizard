@@ -144,3 +144,26 @@ p.codesample
 	background-color: #d3d3d3;
 }
 
+img.standard
+{
+	width: 350px;
+	border-left-style: solid;
+	border-left-width: 4px;
+	border-left-color: #a9a9a9;
+	border-right-style: solid;
+	border-right-width: 4px;
+	border-right-color: #a9a9a9;
+	border-top-style: solid;
+	border-top-width: 4px;
+	border-top-color: #a9a9a9;
+	border-bottom-style: solid;
+	border-bottom-width: 4px;
+	border-bottom-color: #a9a9a9;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
