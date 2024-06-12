@@ -2,9 +2,6 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/PhotoWizardIntro.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  <TocEntry
     Title="Editing Tools">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
