@@ -23,7 +23,7 @@
       Link="/Content/SharingImages.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
-    Title="Masking and Blending Images">
+    Title="Masking Images">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/WhatIsMasking.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
@@ -33,6 +33,9 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/ImageMaskPrecisionEditing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Blending Images">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/WhatIsImageBlending.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
@@ -44,7 +47,7 @@
       Link="/Content/BlendingModeList.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
-    Title="Applying Image Filters and Effects">
+    Title="Applying Image Filters">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/WhatAreFilters.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
@@ -54,6 +57,9 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/FilterList.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Applying Image Effects">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/WhatAreEffects.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
