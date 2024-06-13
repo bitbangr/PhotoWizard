@@ -186,3 +186,20 @@ img.thumbnail
 	border-bottom-color: #a60a20;
 }
 
+a:link
+{
+	color: #a60a20;
+}
+
+a:hover
+{
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #12b4ca;
+	text-decoration: none;
+	border: dotted 2px #dd475c;
+}
+
