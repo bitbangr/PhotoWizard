@@ -113,9 +113,10 @@ MadCap|expandingBody
 MadCap|dropDownHotspot
 {
 	cursor: hand;
-	font-style: italic;
 	text-decoration: none;
 	color: #01784e;
+	font-style: normal;
+	font-size: 16pt;
 }
 
 li
@@ -191,15 +192,26 @@ a:link
 	color: #a60a20;
 }
 
-a:hover
-{
-	text-decoration: none;
-}
-
 a:visited
 {
 	color: #12b4ca;
 	text-decoration: none;
 	border: dotted 2px #dd475c;
+}
+
+a:hover
+{
+	text-decoration: none;
+}
+
+MadCap|popupHead
+{
+	color: #01784e;
+	font-size: 16pt;
+}
+
+MadCap|popupBody
+{
+	background-color: #6dd2af;
 }
 
