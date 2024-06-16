@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 body
 {
@@ -335,7 +335,6 @@ div.note
 {
 	-moz-border-radius: 6px;
 	-webkit-border-radius: 6px;
-	background-color: #f0f7fb;
 	background-position: 9px 0px;
 	background-repeat: no-repeat;
 	border-radius: 6px;
@@ -363,6 +362,9 @@ div.note
 	border-bottom-width: 1px;
 	border-bottom-color: #3498db;
 	width: 500px;
+	font-family: Tahoma;
+	color: #01784e;
+	background-color: #6dd2af;
 }
 
 div.warning
@@ -457,3 +459,4 @@ div.tipAlt
 	overflow: hidden;
 	padding: 15px 60px;
 }
+
