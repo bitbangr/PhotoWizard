@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/SampleImagePW - 1.jpeg" />
+    <Url Source="Resources/Images/PhotoWizardCaps - 4.jpeg" />
     <Url Source="Resources/Images/PW_BlendImages8.jpeg" />
     <Url Source="Resources/Images/PW_BlendImagesInst.png" />
     <Url Source="Resources/Images/CombineImages2.png" />
@@ -8,6 +10,4 @@
     <Url Source="Resources/Images/PW_BlendImages_Two.png" />
     <Url Source="Resources/Images/BlendImageToolbar.png" />
     <Url Source="Resources/Images/PW_BlendImages_Step1.png" />
-    <Url Source="Resources/Images/PhotoWizardCaps - 4.jpeg" />
-    <Url Source="Resources/Images/SampleImagePW - 1.jpeg" />
 </UrlList>
