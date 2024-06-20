@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultSkin
-  Version="3"
+  Version="6"
   SkinType="WebHelp2"
   ComponentType="MasterPage"
   TemplateName="Fluid"
@@ -36,7 +36,7 @@
           <Property
             Name="Color">var(--Dark)</Property>
           <Property
-            Name="BackgroundColor">#ffffff</Property>
+            Name="BackgroundColor">#ffcd85</Property>
         </Properties>
       </Style>
       <Style
