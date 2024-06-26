@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/PW_RoseMask3.jpeg" />
+    <Url Source="Resources/Images/PW_RoseMask2.jpeg" />
+    <Url Source="Resources/Images/PW_RoseMask9.png" />
+    <Url Source="Resources/Images/PW_RoseMask8.png" />
+    <Url Source="Resources/Images/PW_RoseMask7.jpeg" />
     <Url Source="Resources/Images/SampleImagePW - 1.jpeg" />
     <Url Source="Resources/Images/PhotoWizardCaps - 4.jpeg" />
     <Url Source="Resources/Images/PW_BlendImages8.jpeg" />
