@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UrlList>
+    <Url Source="Resources/Images/PW_AddText10.png" />
     <Url Source="Resources/Images/PW_AddText7.png" />
     <Url Source="Resources/Images/PW_AddText4.png" />
     <Url Source="Resources/Images/PW_AddText13a.png" />
@@ -19,5 +20,4 @@
     <Url Source="Resources/Images/PW_BlendImages8.jpeg" />
     <Url Source="Resources/Images/PW_BlendImagesInst.png" />
     <Url Source="Resources/Images/CombineImages2.png" />
-    <Url Source="Resources/Images/CombineImages.png" />
 </UrlList>
